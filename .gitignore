@@ -1,0 +1,12 @@
+# Virtual environment
+.env
+venv/
+.env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+/blenderbot_finetuned/
+
+.vercel
